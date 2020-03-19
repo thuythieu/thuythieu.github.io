@@ -1,0 +1,47 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+.section-info .sec-info-title{
+    text-align: center;
+}
+.section-info .sec-info-content p{
+    color: red;    
+}
+.section-info .sec-info-content a{
+    color: #000;
+}
+.section-banner .sec-banner-col{
+    width: 32.33%;
+    display: inline-block;
+    margin-right: 1%;    
+}
+.section-banner .sec-banner-col:last-child{
+    margin-right: 0;    
+}
+.section-banner .sec-banner-red{
+    height:100px ;
+    background-color: red;
+    
+}
+.sec-banner-yellow{
+    height: 50px;
+    width: 100%;
+    background-color: yellowgreen;
+}
+.sec-banner-black{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+
+}
+.sec-banner-green{
+    height:50px;
+    width:100%;
+    background-color: green;
+}
+.sec-banner-blue{
+    height:50px;
+    width: 100%;
+    background-color: blue;
+}
